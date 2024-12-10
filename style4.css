@@ -1,0 +1,35 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: aquamarine;
+}
+.sidebar
+{   display: block;
+    position: fixed;
+    background-color: blue;
+    height: 100%;
+    width: 250px;
+    
+}
+h1{background-color: brown;
+   text-align: center;
+   color: white;
+}
+
+li a{
+    color: white;
+    padding: 40px;
+
+    
+}
+.menu
+{
+color: white;
+
+
+}

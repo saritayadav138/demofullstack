@@ -1,0 +1,45 @@
+body{background-color: aquamarine;}
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar{
+    display: block;
+    background-color:blueviolet;
+    height:100%;
+    width: 350px;
+    position: fixed;
+    padding: 60px 40px;
+    }
+li{
+    list-style-type: none;
+    padding: 20px;
+}
+a{
+color: white;
+padding: 10px;
+
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-left: -60px;
+}
+.fa-solid
+{
+    color: white;
+    padding: 10px;
+    
+}
+.icons
+{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+
+}
+.icons i{
+    padding: 20px;
+}
